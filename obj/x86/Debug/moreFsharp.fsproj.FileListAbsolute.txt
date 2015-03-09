@@ -1,0 +1,7 @@
+C:\Users\3CU1501060\Documents\Projects\moreFsharp\moreFsharp\bin\Debug\moreFsharp.exe
+C:\Users\3CU1501060\Documents\Projects\moreFsharp\moreFsharp\bin\Debug\moreFsharp.pdb
+C:\Users\3CU1501060\Documents\Projects\moreFsharp\moreFsharp\bin\Debug\FSharp.Core.dll
+C:\Users\3CU1501060\Documents\Projects\moreFsharp\moreFsharp\bin\Debug\FSharp.Core.xml
+C:\Users\3CU1501060\Documents\Projects\moreFsharp\moreFsharp\obj\x86\Debug\moreFsharp.fsprojResolveAssemblyReference.cache
+C:\Users\3CU1501060\Documents\Projects\moreFsharp\moreFsharp\obj\x86\Debug\moreFsharp.exe
+C:\Users\3CU1501060\Documents\Projects\moreFsharp\moreFsharp\obj\x86\Debug\moreFsharp.pdb
